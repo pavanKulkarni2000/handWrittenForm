@@ -23,9 +23,9 @@ The output of text detector is the image of a word. The word is segmented using 
 A different classifier can also be seen with only Capital characters classification(A-B).<br>
 The mapping of the respective model classes can also be found.<br><br><br>
 
-### Sample Output
-<img src="https://github.com/pavanKulkarni2000/handWrittenForm/result.jpg" alt="drawing" width="400"/>
-
+#### Sample Output
+<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/result.jpg" alt="result" width="400"/>
+<br><br>
 #### Technologies
 
 - OpenCV
