@@ -28,7 +28,7 @@ The mapping of the respective model classes can also be found.<br><br><br>
 - OpenCV
 - ML (CNN)
 
-[Back To The Top](#Hand-Written Form Recognition)
+[Back To The Top](#handWrittenForm)
 
 ---
 
@@ -41,8 +41,9 @@ Run the main.py with image path as argument to detect the widgets. The result is
 
 ## References
 - [Text Detector used is a reimplementation of the EAST text detector](https://github.com/SakuraRiven/EAST.git)
-[Back To The Top](#Hand-Written Form Recognition)
+
+[Back To The Top](#handWrittenForm)
 
 ---
 
-[Back To The Top](#Hand-Written Form Recognition)
+[Back To The Top](#handWrittenForm)
