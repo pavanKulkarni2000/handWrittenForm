@@ -23,7 +23,7 @@ The output of text detector is the image of a word. The word is segmented using 
 A different classifier can also be seen with only Capital characters classification(A-B).<br>
 The mapping of the respective model classes can also be found.<br><br><br>
 
-![Alt text](handWrittenForm/res.jpg?raw=true "Title")
+<img src="https://github.com/pavanKulkarni2000/handWrittenForm/res.jpg" alt="drawing" width="400"/>
 
 #### Technologies
 
