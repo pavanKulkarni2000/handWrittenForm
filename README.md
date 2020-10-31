@@ -18,7 +18,7 @@ First, we pass the scanned image of the form through the text detector. The dete
 To detect the widgets, we use a general method applicable to all the widgets, i.e. we use contour recognition method from OpenCV. Then after eliminating the redundant recognition, we use ML models to classify widgets. We have trained a binary classifier pertaining to each widget. Upon passing the image through all models, the prediction with highest probability is considered as the widget class.
 <br><br>
 ### Sample dataset
-<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/dataset.jpg" alt="result"/>
+<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/dataset.png" alt="result"/>
 <br><br><br>
 An attempt to handwritten text recognition can also be seen here, where we build a custom handwritten OCR.<br>
 A handritten character classifier is trained using the minst character dataset, with 62 classes(a-z,A-Z,0-9).<br>
@@ -27,8 +27,8 @@ A different classifier can also be seen with only Capital characters classificat
 The mapping of the respective model classes can also be found.<br><br>
 
 #### Sample form
-<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/input.jpg" alt="result" width="400"/>
-<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/result.jpg" alt="result" width="400"/>
+<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/input.jpg" alt="result"/>
+<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/result.jpg" alt="result"/>
 <br><br>
 
 #### Technologies
