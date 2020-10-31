@@ -27,8 +27,8 @@ A different classifier can also be seen with only Capital characters classificat
 The mapping of the respective model classes can also be found.<br><br>
 
 #### Sample form
-<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/input.jpg" alt="result"/>
-<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/result.jpg" alt="result"/>
+<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/input.jpg" alt="result" width="400"/>
+<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/result.jpg" alt="result" width="400"/>
 <br><br>
 
 #### Technologies
