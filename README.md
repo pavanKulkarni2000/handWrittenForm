@@ -23,6 +23,9 @@ To detect the widgets, we use a general method applicable to all the widgets, i.
 An attempt to handwritten text recognition can also be seen here, where we build a custom handwritten OCR.<br>
 A handritten character classifier is trained using the minst character dataset, with 62 classes(a-z,A-Z,0-9).<br>
 The output of text detector is the image of a word. The word is segmented using contours finding methods from OpenCV. (<b>Note</b>: This segmentation works only if words are in the form of block letters i.e. characters are disjoint)<br>
+### Model architecture
+<img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/534a65a6-1d33-4b15-ac5c-b0b366f05f36.png" alt="result" width="400"/>
+
 A different classifier can also be seen with only Capital characters classification(A-B).<br>
 The mapping of the respective model classes can also be found.<br><br>
 ### Sample characters from EMINST dataset
