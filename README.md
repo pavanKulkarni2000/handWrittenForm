@@ -27,8 +27,9 @@ The output of text detector is the image of a word. The word is segmented using 
 ### Model architecture
 <img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/534a65a6-1d33-4b15-ac5c-b0b366f05f36.png" alt="result" width="400"/>
 
+
 A different classifier can also be seen with only Capital characters classification(A-B).<br>
-The mapping of the respective model classes can also be found.<br><br>
+The mapping of the respective model classes is used to identify the character.<br><br>
 
 ### Sample characters from EMINST dataset
 <img src="https://github.com/pavanKulkarni2000/handWrittenForm/blob/main/images/chars.png" alt="result" width="400"/>
