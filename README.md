@@ -44,8 +44,6 @@ The mapping of the respective model classes is used to identify the character.<b
 - OpenCV
 - ML
 
-<a href="https://drive.google.com/file/d/1CR5r_4qOkkL23GwreTfnbCZperQ9PJSk/view?usp=sharing">Conference paper</a>
-
 ---
 
 ## How To Use
