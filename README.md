@@ -42,7 +42,7 @@ The mapping of the respective model classes is used to identify the character.<b
 #### Technologies
 
 - OpenCV
-- ML (CNN)
+- ML
 
 ---
 
